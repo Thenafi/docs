@@ -5,10 +5,6 @@ editLink: false
 sponsors: false
 ---
 
-<script setup>
-import SponsorsGroup from '@theme/components/SponsorsGroup.vue'
-</script>
-
 # Become a Vue.js Sponsor {#become-a-vue-js-sponsor}
 
 Vue.js is an MIT licensed open source project and completely free to use.
@@ -57,23 +53,18 @@ You can also try to convince your employer to sponsor Vue as a business. This ma
   - Name listed in the `BACKERS.md` file of `vuejs/core` and `vuejs/vue`.
 
 ## Current Sponsors {#current-sponsors}
+<p align="center">
+  <h3 align="center">Special Sponsor</h3>
+</p>
 
-### Special Global Sponsor {#special-global-sponsor}
+<p align="center">
+  <a target="_blank" href="https://github.com/appwrite/appwrite">
+  <img alt="special sponsor appwrite" src="https://sponsors.vuejs.org/images/appwrite.svg" width="300">
+  </a>
+</p>
 
-<SponsorsGroup tier="special" placement="page" />
-
-### Platinum {#platinum}
-
-<SponsorsGroup tier="platinum" placement="page" />
-
-### Platinum (China) {#platinum-china}
-
-<SponsorsGroup tier="platinum_china" placement="page" />
-
-### Gold {#gold}
-
-<SponsorsGroup tier="gold" placement="page" />
-
-### Silver {#silver}
-
-<SponsorsGroup tier="silver" placement="page" />
+<p align="center">
+  <a target="_blank" href="https://vuejs.org/sponsor/#current-sponsors">
+    <img alt="sponsors" src="https://sponsors.vuejs.org/sponsors.svg?v3">
+  </a>
+</p>
